@@ -1,5 +1,5 @@
 # BadYT
-BadYT - A List Of [Spam Bot, Scammer, Hacker] Youtube Channels.
+BadYT - A List Of Youtube Channels That Violate Youtube's TOS.
 
 # Found Any Not On This List?
 Fork The Repo, Add Them To The List, And Open A Pull Request, And We'll Get To Reviewing The Urls Right Away.
