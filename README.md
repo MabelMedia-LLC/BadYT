@@ -4,7 +4,7 @@ BadYT - A List Of Youtube Channels That Violate Youtube's TOS.
 # Found Any Not On This List?
 Fork The Repo, Add Them To The List, And Open A Pull Request, And We'll Get To Reviewing The Urls Right Away.
 
-Please Provide Evidence That The Channel In Question Has Done What You Say They Have Done ( Screenshots, Urls).
+Please Provide Evidence That The Channel In Question Has Done What You Say They Have Done (Screenshots, Urls).
 
 Please Format The PR Like So:
 Channel Url | Channel Name | TOS Term Violated
