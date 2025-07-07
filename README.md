@@ -4,4 +4,4 @@ A List Of Bad YouTube Accounts That Need Terminating.
 # Stats
 
 ### YouTube
-91 Active / 18 Terminated
+92 Active / 23 Terminated
